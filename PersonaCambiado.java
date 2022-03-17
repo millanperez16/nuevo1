@@ -1,5 +1,7 @@
 package pract4;
 
+// Añadir comentario
+
 public class PersonaCambiado {
 
     private String nombre;
